@@ -37,7 +37,7 @@ The `matchOrder` function automatically:
 ## Usage
 Run the simulation to see real-time order additions and matching:
 ```bash
-python stock.py
+python3 stock.py
 ```
 
 ## Sample Output
@@ -47,11 +47,6 @@ Matched 27 units for ticker 138 at price 34.57
 Simulation completed
 ```
 
-## Contributions
-Feel free to improve this simulation by submitting a pull request!
 
----
-
-Enjoy exploring real-time stock trading simulation!
 
 
